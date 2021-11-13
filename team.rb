@@ -19,12 +19,12 @@ class Team
 
 end
 
-giant = Team.new("読売ジャイアンツ","67","45","8")
-tigers = Team.new("阪神タイガース","60","53","7")
-dragons = Team.new("中日ドラゴンズ","60","55","5")
-baystars = Team.new("横浜DNAベイスターズ","56","58","6")
-carp = Team.new("広島東洋カープ","52","56","12")
-swallows = Team.new("東京ヤクルトスワローズ","41","69","10")
+giant = Team.new("Giants","67","45","8")
+tigers = Team.new("Tigers","60","53","7")
+dragons = Team.new("Dragons","60","55","5")
+baystars = Team.new("BayStars","56","58","6")
+carp = Team.new("Carp","52","56","12")
+swallows = Team.new("Swallows","41","69","10")
 
 giant.show_team_result
 tigers.show_team_result
